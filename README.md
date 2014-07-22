@@ -4,7 +4,7 @@ Fight for the Future Volunteers
 ### Got tech skills? Join the fight!
 
 [Fight for the Future][1] needs your help! We're looking for skilled technical
-volunteers to help build ourcampaigns to protect net neutrality and fight mass
+volunteers to help build our campaigns to protect net neutrality and fight mass
 surveillance. With everything from basic web sites, to complex data-driven
 applications and even iPhone / Android apps, we have tons of projects to work
 on for people of all technical backgrounds and levels.
