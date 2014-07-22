@@ -1,0 +1,63 @@
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.btn {
+    background-color: #2dbb9b;
+    border: none;
+    border-radius: 5px;
+    height: 56px;
+    padding: 0px 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 30px 0px;
+    opacity: .9;
+}
+.btn:hover {
+    background-color: #2dbb9b;
+    opacity: 1;
+}
+
+body {
+    background: #5d5d88;
+    text-align: center;
+    color: white;
+    
+    font-size: 1.8em;
+    line-height: 1.9em;
+    color: #eee;
+    font-weight: 200;
+}
+
+a {
+    color: white;
+    text-decoration: underline;
+}
+a:hover { 
+    color: pink;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 15px;
+}
+
+.banner img.logo {
+    max-width: 50%;
+    height: auto;
+    margin-top: 40px;
+}
+.banner img.heart {
+    width: 50px;
+    height: 50px;
+    margin: 15px 0px 25px 0px;
+}
+.banner h1 { 
+    font-family: Montserrat;
+    padding: 0px;
+    margin: 3px;
+    color: white;
+    text-shadow: 0px 1px 2px black;
+}
