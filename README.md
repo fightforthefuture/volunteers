@@ -20,7 +20,7 @@ Here are some technologies we work with:
 * HTML5
 * JavaScript / jQuery
 * CSS / Less / Bootstrap
-* NodeJS / MongoDB
+* NodeJS / MongoDB / Redis
 * PHP / MySQL
 * iOS
 * Android
